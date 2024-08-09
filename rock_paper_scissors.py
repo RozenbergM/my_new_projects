@@ -56,3 +56,4 @@ elif player == 2 and computer == 0:
     print("You loose :(")
 elif player == computer:
     print("Draw, try again!")
+    
